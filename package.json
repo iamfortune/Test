@@ -1,5 +1,5 @@
 {
-  "name": "Test",
+  "name": "test",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -18,5 +18,21 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamfortune/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamfortune/Test/issues"
+  },
+  "homepage": "https://github.com/iamfortune/Test#readme",
+  "description": ""
 }
